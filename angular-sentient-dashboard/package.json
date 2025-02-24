@@ -1,0 +1,11 @@
+{
+    "name": "angular-sentient-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-sentient-ui": "file:../stencil-sentient-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
